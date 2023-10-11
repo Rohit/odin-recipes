@@ -1,0 +1,27 @@
+/*CSS for index.html*/
+*{
+    background-color: cornsilk;
+}
+
+
+
+h1{
+    text-align: center;
+    color:darkslategray;
+    font-family: 'Young Serif', serif;
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+
+.recipe{
+    font-family: 'Young Serif', serif;
+    font-weight: bold;
+    /* color: black; */
+    
+  }
